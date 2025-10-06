@@ -1,0 +1,1 @@
+This repo follows along with Project:  Recipes from [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes).  This project utilizes basic git commands and foundational HTML knowledge.  
